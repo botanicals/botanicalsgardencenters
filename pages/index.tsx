@@ -1,44 +1,45 @@
-import ErrorPage from 'next/error';
+import Link from 'next/link';
+import { GetStaticProps, NextPage } from 'next';
 
 import PageLayout from '../layouts/PageLayout';
-import { Metadata } from '../layouts/components/Seo';
-
-import Sections from '../components/sections';
-import { NextPage } from 'next';
 
 interface IndexPageProps {
   name: string;
-  metadata: Metadata;
-  sections: any[];
 }
 
-const IndexPage: NextPage<IndexPageProps> = ({ name, metadata, sections }) => {
-  // Check if the required data was provided
-  if (!sections?.length) {
-    return <ErrorPage statusCode={500} />;
-  }
-
+const IndexPage: NextPage<IndexPageProps> = ({ name }) => {
   return (
-    <PageLayout seo={metadata}>
-      <Sections sections={sections} />
+    <PageLayout seo={{ title: '', slug: '/' }} breadcrumbs={[]} heading="Botanicals Garden Centers">
+      <div className="relative overflow-hidden rounded-xs">
+        <div className="absolute inset-0">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/images/hedge-maple.png" alt="" className="object-cover object-center w-full h-full" />
+        </div>
+        <div className="relative px-6 py-32 bg-black bg-opacity-70 sm:py-40 sm:px-12 lg:px-16">
+          <div className="relative flex flex-col items-center max-w-3xl mx-auto text-center">
+            <h2 className="text-3xl font-semibold tracking-tight uppercase text-primary-green sm:text-5xl">Explore our catalog</h2>
+            {/* <p className="mt-3 text-xl text-white">
+              Make your desk beautiful and organized. Post a picture to social media and watch it get more likes than life-changing announcements. Reflect on the shallow nature of existence. At least
+              you have a really nice desk setup.
+            </p> */}
+            <Link href="/catalog">
+              <a className="block w-full px-8 py-3 mt-8 text-base font-medium uppercase border-2 rounded-sm hover:text-white hover:border-transparent hover:bg-primary-green hover:bg-transparent border-primary-green text-primary-green sm:w-auto">
+                Explore catalog
+              </a>
+            </Link>
+          </div>
+        </div>
+      </div>
     </PageLayout>
   );
 };
 
-export async function getStaticProps() {
-  const page = await import('../content/pages/index.md').catch(error => null);
-
-  if (!page) return { props: {} };
-
-  const { name, metadata, sections = [] } = page.attributes;
-
+export const getStaticProps: GetStaticProps = () => {
   return {
     props: {
-      name,
-      metadata,
-      sections,
+      name: 'Index Page',
     },
   };
-}
+};
 
 export default IndexPage;

@@ -8,9 +8,12 @@ class MyDocument extends Document {
 
   render() {
     return (
-      <Html>
-        <Head>{/* Google Fonts Here */}</Head>
-        <body>
+      <Html className="h-full bg-gray-100">
+        <Head>
+          {/* Fonts Here */}
+          <link rel="stylesheet" href="https://use.typekit.net/wto3zoi.css" />
+        </Head>
+        <body className="h-full">
           <Main />
           <NextScript />
         </body>

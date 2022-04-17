@@ -1,14 +1,14 @@
 ---
-siteTitle: Starter Site
+siteTitle: Botanicals Garden Centers
 defaultMetadata:
-  title: Starter Site
+  title: Botanicals Garden Centers
   slug: /
-  description: Starter site using NextJS, TailwindCSS and Netlify CMS.
+  description: Botanicals Garden Centers and Catalog
 siteBanner:
-  shortText: ""
-  longText: ""
+  shortText: ''
+  longText: ''
   link:
-    href: ""
-    text: ""
+    href: ''
+    text: ''
     external: false
 ---

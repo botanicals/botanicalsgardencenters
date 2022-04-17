@@ -16,6 +16,7 @@
     "@heroicons/react": "^1.0.5",
     "axios": "^0.26.0",
     "frontmatter-markdown-loader": "^3.6.3",
+    "graphql-request": "^4.2.0",
     "netlify-cms-app": "^2.15.66",
     "next": "12.1.0",
     "next-seo": "^5.1.0",
