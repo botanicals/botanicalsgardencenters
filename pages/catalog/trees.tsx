@@ -57,8 +57,6 @@ export const getStaticProps: GetStaticProps = async () => {
 
   const data = await client.request(query);
 
-  console.log({ trees: data.trees });
-
   return {
     props: {
       trees: data.trees,

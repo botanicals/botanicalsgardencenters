@@ -12,7 +12,6 @@ interface TreePageProps {
 }
 
 const TreePage: NextPage<TreePageProps> = ({ tree }) => {
-  console.log({ tree });
   return (
     <PageLayout
       seo={{ title: tree.name, slug: tree.slug }}
@@ -92,8 +91,6 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
   const data = await client.request(query);
 
-  console.log({ slugs: data.trees });
-
   return {
     paths: data.trees.map((tree: { slug: string }) => ({ params: { tree: tree.slug } })),
     fallback: false,
@@ -102,8 +99,6 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps = async context => {
   const { tree } = context.params!;
-
-  console.log({ tree });
 
   const query = gql`
     query Tree($slug: String!) {
@@ -126,8 +121,6 @@ export const getStaticProps: GetStaticProps = async context => {
   `;
 
   const data = await client.request(query, { slug: tree });
-
-  console.log({ tree: data.tree });
 
   return {
     props: {
