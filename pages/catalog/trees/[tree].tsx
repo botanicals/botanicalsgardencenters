@@ -23,15 +23,18 @@ const TreePage: NextPage<TreePageProps> = ({ tree }) => {
       ]}
       heading={tree.name}
     >
-      <div className="grid items-start grid-cols-1 gap-y-16 gap-x-8 lg:grid-cols-2">
-        <div className="">
-          <div className="px-4 py-2 bg-black">
-            <p className="text-gray-300">{tree.scientificName}</p>
-            <h2 className="text-3xl font-semibold tracking-tight uppercase text-primary-green sm:text-4xl">{tree.name}</h2>
-          </div>
-
-          <dl className="grid grid-cols-1 mt-8 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-16 lg:gap-x-8">
+      <div className="grid items-start grid-cols-1 gap-y-8 gap-x-8 lg:grid-cols-2">
+        <div className="order-2 md:order-1">
+          <dl className="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-16 lg:gap-x-8">
             {[
+              {
+                name: 'Name',
+                description: tree.name,
+              },
+              {
+                name: 'Scientific Name',
+                description: tree.scientificName,
+              },
               {
                 name: 'Zone',
                 description: tree.zone,
@@ -63,14 +66,15 @@ const TreePage: NextPage<TreePageProps> = ({ tree }) => {
             ].map(feature => (
               <div key={feature.name} className="px-4 py-2 pt-4 border-t border-gray-200">
                 <dt className="font-medium uppercase text-primary-green">{feature.name}</dt>
-                <dd className="mt-2 text-base font-medium text-gray-700">{feature.description}</dd>
+                <dd className="mt-2 text-lg font-medium text-gray-700">{feature.description}</dd>
               </div>
             ))}
           </dl>
         </div>
-        <div className="">
+
+        <div className="order-1 md:order-2">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={tree.image?.url || 'https://via.placeholder.com/800'} alt={tree.name} className="bg-gray-100 rounded-sm" />
+          <img src={tree.image?.url || 'https://via.placeholder.com/600'} alt={tree.name} className="bg-gray-100 rounded-sm" />
         </div>
       </div>
     </PageLayout>

@@ -15,14 +15,14 @@ const PageLayout: React.FC<PageLayoutProps> = ({ seo, breadcrumbs, heading, chil
       <div className="flex flex-col justify-between min-h-screen">
         <div>
           <header className="bg-black">
-            <div className="flex items-center h-16 px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
+            <div className="flex items-center h-auto px-4 py-8 mx-auto sm:h-16 max-w-7xl sm:px-6 lg:px-8">
               <div className="flex items-center justify-between w-full">
                 <Link href="/">
                   <a>
-                    <div className="flex items-center space-x-2">
+                    <div className="flex flex-col items-center justify-center space-x-2 sm:flex-row">
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img className="w-10 h-10" src="/assets/botanicals-icon.png" alt="Botanicals" />
-                      <h1 className="text-2xl font-medium uppercase text-primary-green">Botanicals Garden Centers</h1>
+                      <h1 className="mt-4 text-2xl font-medium text-center uppercase sm:mt-0 text-primary-green">Botanicals Garden Centers</h1>
                     </div>
                   </a>
                 </Link>
@@ -43,16 +43,16 @@ const PageLayout: React.FC<PageLayoutProps> = ({ seo, breadcrumbs, heading, chil
             </div>
           </div>
 
-          <main className="py-6 mx-auto max-w-7xl sm:px-6 lg:px-8">
+          <main className="px-4 py-6 mx-auto max-w-7xl sm:px-6 lg:px-8">
             {/* Replace with your content */}
             {children}
             {/* /End replace */}
           </main>
         </div>
 
-        <footer>
+        <footer className="mt-4">
           <div className="px-4 py-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
-            <p className="text-xs text-center text-gray-400 uppercase">&copy; {new Date().getFullYear()} Botanicals, Inc. All rights reserved.</p>
+            <p className="text-sm text-center text-gray-400">&copy; {new Date().getFullYear()} Botanicals, Inc. All rights reserved.</p>
           </div>
         </footer>
       </div>
