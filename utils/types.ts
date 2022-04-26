@@ -2,6 +2,7 @@ export interface Tree {
   name: string;
   scientificName: string;
   zone: number;
+  zones: number[];
   waterUse: string;
   spread: string;
   slug: string;

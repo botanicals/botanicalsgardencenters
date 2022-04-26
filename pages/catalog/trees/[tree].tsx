@@ -35,8 +35,8 @@ const TreePage: NextPage<TreePageProps> = ({ tree }) => {
                 description: tree.scientificName,
               },
               {
-                name: 'Zone',
-                description: tree.zone,
+                name: 'Zones',
+                description: tree.zones.join(', '),
               },
               {
                 name: 'Height',
@@ -116,6 +116,7 @@ export const getStaticProps: GetStaticProps = async context => {
         spread
         waterUse
         zone
+        zones
       }
     }
   `;
