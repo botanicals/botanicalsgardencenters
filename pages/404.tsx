@@ -1,4 +1,5 @@
 import { NextPage } from 'next';
+import Link from 'next/link';
 
 import PageLayout from '../layouts/PageLayout';
 
@@ -15,18 +16,11 @@ const NotFoundPage: NextPage = () => {
                 <p className="mt-1 text-base text-gray-500">Please check the URL in the address bar and try again.</p>
               </div>
               <div className="flex mt-10 space-x-3 sm:border-l sm:border-transparent sm:pl-6">
-                <a
-                  href="#"
-                  className="inline-flex items-center px-4 py-2 text-sm font-semibold text-white border border-transparent rounded-md shadow-sm bg-primary-green hover:bg-primary-green/80 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-green"
-                >
-                  Go back home
-                </a>
-                <a
-                  href="#"
-                  className="inline-flex items-center px-4 py-2 text-sm font-semibold border border-transparent rounded-md text-primary-green bg-primary-green/10 hover:bg-primary-green/20 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-green/80"
-                >
-                  Contact support
-                </a>
+                <Link href="/">
+                  <a className="inline-flex items-center px-4 py-2 text-sm font-semibold text-white bg-black border border-transparent rounded-md shadow-sm hover:bg-black/80 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-black">
+                    Go back home
+                  </a>
+                </Link>
               </div>
             </div>
           </div>

@@ -9,7 +9,7 @@ interface IndexPageProps {
 
 const IndexPage: NextPage<IndexPageProps> = ({ name }) => {
   return (
-    <PageLayout seo={{ title: '', slug: '/' }} breadcrumbs={[]} heading="Botanicals Garden Centers">
+    <PageLayout seo={{ title: 'Botanicals Garden Centers', titleOverwrite: true, slug: '/' }} breadcrumbs={[]} heading="Botanicals Garden Centers">
       <div className="relative overflow-hidden bg-black border-2 border-black rounded-sm">
         <div className="absolute inset-0">
           {/* eslint-disable-next-line @next/next/no-img-element */}
