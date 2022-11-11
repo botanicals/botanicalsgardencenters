@@ -1,7 +1,4 @@
 import { NextSeo } from 'next-seo';
-
-import { attributes as global } from '../../content/settings/global.md';
-
 export interface Metadata {
   title: string;
   slug: string;
@@ -19,21 +16,19 @@ interface SeoProps {
 }
 
 const Seo: React.FC<SeoProps> = ({ metadata }) => {
-  const { siteTitle, defaultMetadata } = global;
-
   // Prevent errors if no metadata was set
   if (!metadata) return null;
 
-  const title = metadata.titleOverwrite ? `${metadata.title}` : `${metadata.title} | ${siteTitle}`;
+  const title = metadata.titleOverwrite ? `${metadata.title}` : `${metadata.title} | Botanicals Garden Centers`;
 
   return (
     <NextSeo
       title={title}
-      description={metadata.description || defaultMetadata.description}
+      description={metadata.description || 'Botanicals Garden Centers and Catalog'}
       openGraph={{
         // Title and description are mandatory
         title,
-        description: metadata.description || defaultMetadata.description,
+        description: metadata.description || 'Botanicals Garden Centers and Catalog',
         // Only include OG image if it exists
         ...(metadata.shareImage && {
           images: [
