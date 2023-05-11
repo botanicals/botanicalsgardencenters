@@ -1,0 +1,1636 @@
+[
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:08:26.855856+00:00",
+    "stage": "DRAFT",
+    "spread": "40'",
+    "slug": "emerald-queen",
+    "scientificName": "Acer platanoides",
+    "name": "Emerald Queen",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl1p5yfn11xz70blswwp6v9rq",
+    "height": "50'",
+    "growthRate": "Fast",
+    "foliageColor": "Dark Green; Yellow in Fall",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Moderate ",
+    "updatedAt": "2022-04-26T21:08:13.429198+00:00",
+    "stage": "DRAFT",
+    "spread": "15' ",
+    "slug": "hot-wings-maple",
+    "scientificName": "Acer tartarica",
+    "name": "Hot Wings Maple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl1yyhw2dy4bd0bn5i6ksxhud",
+    "height": "20' ",
+    "growthRate": "Moderate",
+    "foliageColor": "Green; Yellow to Red in Fall ",
+    "exposure": "Full Sun "
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Moderate ",
+    "updatedAt": "2022-04-26T21:08:01.179185+00:00",
+    "stage": "DRAFT",
+    "spread": "20'",
+    "slug": "metro-gold-maple",
+    "scientificName": "Acer campestre",
+    "name": "Metro Gold Maple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl1yyk2lvff0j0dlnwq9i3sub",
+    "height": "35'",
+    "growthRate": "Moderate",
+    "foliageColor": "Dark Green; Yellow in Fall ",
+    "exposure": "Full Sun "
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate ",
+    "updatedAt": "2022-04-26T21:07:51.913306+00:00",
+    "stage": "DRAFT",
+    "spread": "25' ",
+    "slug": "pacific-sunset-maple",
+    "scientificName": "Acer truncatum",
+    "name": "Pacific Sunset Maple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl1yym2doy6z90bmuex1g0yqj",
+    "height": "30'",
+    "growthRate": "Moderate",
+    "foliageColor": " Green; Orange to Red in Fall",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:07:37.129996+00:00",
+    "stage": "DRAFT",
+    "spread": "22'",
+    "slug": "bigtooth-maple",
+    "scientificName": "Acer grandidentatum x saccharum ‘Highland Park’",
+    "name": "Bigtooth Maple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl1yyo37ay85j0bmuczt91pxk",
+    "height": "35' ",
+    "growthRate": "Slow to Moderate",
+    "foliageColor": "Dark Green",
+    "exposure": "Full Sun "
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:07:26.459087+00:00",
+    "stage": "DRAFT",
+    "spread": "20'",
+    "slug": "tatarian-maple",
+    "scientificName": "Acer tatarica",
+    "name": "Tatarian Maple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl1yyq1zky7lc0bn5qgof9e7i",
+    "height": "25'",
+    "growthRate": "Moderate ",
+    "foliageColor": "Green; Red-Orange in Fall",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:07:12.769072+00:00",
+    "stage": "DRAFT",
+    "spread": "20'",
+    "slug": "tatarian-maple-tree",
+    "scientificName": "Acer tatarica",
+    "name": "Tatarian Maple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl1yyudnjfkt10dlnngspywqm",
+    "height": "25'",
+    "growthRate": "Moderate",
+    "foliageColor": "Green; Red-Orange in Fall ",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:07:00.479018+00:00",
+    "stage": "DRAFT",
+    "spread": "60-70'",
+    "slug": "bur-oak",
+    "scientificName": "Quercus macrocarpa",
+    "name": "Bur Oak",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl1yywezaykej0bmusxjj8uxg",
+    "height": "60-70'",
+    "growthRate": "Slow",
+    "foliageColor": "Green",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:06:34.926784+00:00",
+    "stage": "DRAFT",
+    "spread": "20-30'",
+    "slug": "northern-catalpa",
+    "scientificName": "Catalpa speciosa ",
+    "name": "Northern Catalpa",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl1yyyvi5fx2o0dlnlf6onbs0",
+    "height": "40-70'",
+    "growthRate": "Moderate",
+    "foliageColor": "Medium green, Flower Color: White with Purple and Yellow Spotted Interior",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:05:59.287641+00:00",
+    "stage": "DRAFT",
+    "spread": "15' ",
+    "slug": "american-hornbeam",
+    "scientificName": "Carpinus caroliniana ",
+    "name": "American Hornbeam",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl1yz0tn6yqle0clvfage1mt3",
+    "height": "30'",
+    "growthRate": "Moderate",
+    "foliageColor": "Green",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Moderate ",
+    "updatedAt": "2022-04-26T21:05:44.837619+00:00",
+    "stage": "DRAFT",
+    "spread": "6'",
+    "slug": "flowering-june-snow-dogwood",
+    "scientificName": "Cornus controversa",
+    "name": "Flowering June Snow Dogwood",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl1yzfoymyxhp0clvokocq1ye",
+    "height": "6'",
+    "growthRate": "Moderate",
+    "foliageColor": "Green; Red in Fall. Flower Color: White ",
+    "exposure": "Full Sun to Part Shade"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Moderate ",
+    "updatedAt": "2022-04-26T21:05:31.125394+00:00",
+    "stage": "DRAFT",
+    "spread": "35'",
+    "slug": "little-leaf-greenspire-linden",
+    "scientificName": "Tilia cordata ",
+    "name": "Little Leaf ‘Greenspire’ Linden",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl1yzi2vtyw7j0bn5p32q94lt",
+    "height": "50'",
+    "growthRate": "Moderate",
+    "foliageColor": "Green/Yellow in Fall. Flower Color: Pale Yellow",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate ",
+    "updatedAt": "2022-04-26T21:05:09.36512+00:00",
+    "stage": "DRAFT",
+    "spread": "25'",
+    "slug": "accolade-elm",
+    "scientificName": "Ulmus",
+    "name": "Accolade Elm",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl1yzkkdmyycn0bmuxwmpumby",
+    "height": "50'",
+    "growthRate": "Fast",
+    "foliageColor": "Green/Yellow Fall",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:04:54.885446+00:00",
+    "stage": "DRAFT",
+    "spread": "20-25'",
+    "slug": "frontier-elm",
+    "scientificName": "Ulmus",
+    "name": "Frontier Elm",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl1yzmnrhyxdl0bn50o6e02pf",
+    "height": " 30-35'",
+    "growthRate": "Fast",
+    "foliageColor": "Green/Reddish Purple Fall",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate ",
+    "updatedAt": "2022-04-26T21:04:41.631282+00:00",
+    "stage": "DRAFT",
+    "spread": "10-15'",
+    "slug": "flowering-toba-hawthorne",
+    "scientificName": "Crataegus x mordenensis",
+    "name": "Flowering Toba Hawthorne",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl1yzox1lyy1g0bn55pxbymwf",
+    "height": "15-18'",
+    "growthRate": "Moderate",
+    "foliageColor": "Medium green. Flower Color: White Blossoms-Pink Flowers",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [2],
+    "zone": 2,
+    "waterUse": "Low when Established ",
+    "updatedAt": "2022-04-26T21:04:24.775139+00:00",
+    "stage": "DRAFT",
+    "spread": "8-10'",
+    "slug": "common-chokecherry",
+    "scientificName": "Prunus virginiana melanocarpa ",
+    "name": "Common Chokecherry",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl1yzqz6jg8mr0dlne2r7vzaw",
+    "height": "8-10'",
+    "growthRate": "Moderate",
+    "foliageColor": "Green/Yellow Fall. Flower Color: White",
+    "exposure": "Full Sun to Part Shade"
+  },
+  {
+    "zones": [2],
+    "zone": 2,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:04:11.596187+00:00",
+    "stage": "DRAFT",
+    "spread": "20-25'",
+    "slug": "canada-red-chokecherry",
+    "scientificName": "Prunus virginiana",
+    "name": "Canada Red Chokecherry",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26am81i43920emza27xjsjw",
+    "height": "20-25'",
+    "growthRate": "Fast ",
+    "foliageColor": "Foliage Color: Green/Reddish-Purple, Flower Color: White ",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": " Low when Established",
+    "updatedAt": "2022-04-26T21:03:58.479285+00:00",
+    "stage": "DRAFT",
+    "spread": "5-10' ",
+    "slug": "rocky-mountain-upright-juniper",
+    "scientificName": "Juniperus scopulorum ‘Moonglow’ ",
+    "name": "Rocky Mountain Upright Juniper",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26ao4ke431c0bn5cno3w13d",
+    "height": "15-20' ",
+    "growthRate": " Moderate",
+    "foliageColor": "Silvery-Blue ",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": " Low when Established ",
+    "updatedAt": "2022-04-26T21:03:44.974359+00:00",
+    "stage": "DRAFT",
+    "spread": "3'",
+    "slug": "taylor-juniper",
+    "scientificName": "Juniperus virginiana",
+    "name": "Taylor Juniper",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26apymy43qg0bn58qmt368z",
+    "height": "30'",
+    "growthRate": "Moderate ",
+    "foliageColor": "Green ",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:03:31.984419+00:00",
+    "stage": "DRAFT",
+    "spread": "12' ",
+    "slug": "red-jewel-flowering-crabapple",
+    "scientificName": "Malus ‘Jewelcole’ ",
+    "name": "Red Jewel Flowering Crabapple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26ash7w49xf0bn0e19n02ch",
+    "height": "15' ",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Green. Flower Color: White ",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Low when established",
+    "updatedAt": "2022-04-26T21:03:19.989025+00:00",
+    "stage": "DRAFT",
+    "spread": "15-20'",
+    "slug": "ivory-silk-japanese-lilac",
+    "scientificName": "Syringa reticulata",
+    "name": "Ivory Silk Japanese Lilac",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26auuzc4bb40bn5k7x03x3p",
+    "height": "20-25'",
+    "growthRate": "Moderate ",
+    "foliageColor": "Foliage Color: Green/Yellow, Gold in Fall. Flower Color: White",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:03:05.43657+00:00",
+    "stage": "DRAFT",
+    "spread": "10'",
+    "slug": "white-flowering-adirondack-crabapple",
+    "scientificName": "Malus",
+    "name": "White Flowering Adirondack Crabapple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26ax09z4m240bn0fd1tc1qg",
+    "height": "18'",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Green. Flower Color: White.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:02:53.393086+00:00",
+    "stage": "DRAFT",
+    "spread": "20-30'",
+    "slug": "mimosa-silk-tree-eh-wilson",
+    "scientificName": "Albizia julibrissin ",
+    "name": "Mimosa, Silk Tree E.H. Wilson",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26b027t4oy10cljku4f75yy",
+    "height": "20-30'",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Green. Flower Color: Pink.",
+    "exposure": "Full Sun to Part Shade "
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Moderate ",
+    "updatedAt": "2022-04-26T21:02:40.435358+00:00",
+    "stage": "DRAFT",
+    "spread": "20-30'",
+    "slug": "dolgo-white-flowering-crabapple",
+    "scientificName": "Malus",
+    "name": "Dolgo White Flowering Crabapple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26b1y1b4lf70emzadsyrcdb",
+    "height": "15-20'",
+    "growthRate": " Moderate",
+    "foliageColor": "Foliage Color: Green; Yellow in Fall. Flower Color: White",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:02:29.471697+00:00",
+    "stage": "DRAFT",
+    "spread": "10-15'",
+    "slug": "coralburst-pink-flowering-crabapple",
+    "scientificName": "Malus ‘Coralcole’",
+    "name": "Coralburst Pink Flowering Crabapple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26b3qkm4lwy0bn5h842t7ot",
+    "height": "10-15'",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Green; Yellow in Fall. Flower Color: Pink.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate ",
+    "updatedAt": "2022-04-26T21:02:15.055687+00:00",
+    "stage": "DRAFT",
+    "spread": "12'",
+    "slug": "sparkling-sprite-flowering-crabapple",
+    "scientificName": "Malus",
+    "name": "Sparkling Sprite Flowering Crabapple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26b5r8c4niv0emzt9baui3g",
+    "height": "12'",
+    "growthRate": "Moderate ",
+    "foliageColor": "Foliage Color: Bright Green. Flower Color: White.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": " Moderate",
+    "updatedAt": "2022-04-26T21:02:03.792436+00:00",
+    "stage": "DRAFT",
+    "spread": "15-20'",
+    "slug": "indian-magic-flowering-crabapple",
+    "scientificName": "Malus",
+    "name": "Indian Magic Flowering Crabapple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26b82cd4o7a0emz8f7yv5vr",
+    "height": "15-20'",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Green; Golden-Orange in Fall. Flower Color: Deep Pink.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:01:54.558874+00:00",
+    "stage": "DRAFT",
+    "spread": "20'-25'",
+    "slug": "spring-snow-flowering-crabapple",
+    "scientificName": "Malus",
+    "name": "Spring Snow Flowering Crabapple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26b9vqx4ow30emzx0qtjdg7",
+    "height": "25'",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Green; Yellow in Fall. Flower Color: White",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:01:30.7525+00:00",
+    "stage": "DRAFT",
+    "spread": "20'",
+    "slug": "prairie-rose-fruitless-pink-flowering-crabapple",
+    "scientificName": "Malus",
+    "name": "Prairie Rose Fruitless Pink Flowering Crabapple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26bbk4h4u3w0clj8xy7jo8i",
+    "height": "20'",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Green; Gold to Crimson in Fall. Flower Color: Pink.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:01:12.703319+00:00",
+    "stage": "DRAFT",
+    "spread": "15-20'",
+    "slug": "radiant-flowering-crabapple",
+    "scientificName": "Malus",
+    "name": "Radiant Flowering Crabapple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26bd2et4oy80bn53nl6lgze",
+    "height": "15-20'",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Green. Flower Color: Pink",
+    "exposure": "ull Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T21:00:57.813358+00:00",
+    "stage": "DRAFT",
+    "spread": "15-20'",
+    "slug": "rejoice-flowering-crabapple",
+    "scientificName": "Malus ‘Rejzam’",
+    "name": "Rejoice Flowering Crabapple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26ben824piq0bn5g1tz3lwc",
+    "height": "15-20'",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Green with Burgundy Overcast. Flower Color: Rose Pink.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Low ",
+    "updatedAt": "2022-04-26T21:00:46.497021+00:00",
+    "stage": "DRAFT",
+    "spread": " 50-60'",
+    "slug": "swamp-white-oak",
+    "scientificName": "Quercus bicolor",
+    "name": "Swamp White Oak",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26bg62f4v540bn03yyjfhu1",
+    "height": " 50-60'",
+    "growthRate": "Moderate",
+    "foliageColor": "Yellow-Green",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Low when established",
+    "updatedAt": "2022-04-26T21:00:28.143039+00:00",
+    "stage": "DRAFT",
+    "spread": " 35'",
+    "slug": "winter-king-hawthorn",
+    "scientificName": "Crataegus viridis",
+    "name": "Winter King Hawthorn",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26bi4414vpg0bn06ate7lle",
+    "height": " 35'",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Green; Orange-Red in Fall. Flower Color: White.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Low when Established",
+    "updatedAt": "2022-04-26T21:00:16.421524+00:00",
+    "stage": "DRAFT",
+    "spread": "35'",
+    "slug": "kentucky-coffee-tree",
+    "scientificName": "Gymnocladus diocus ‘Espresso’",
+    "name": "Kentucky Coffee Tree",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26bkbsp4wfs0bn0cesmgajn",
+    "height": "50'",
+    "growthRate": " Slow",
+    "foliageColor": "Foliage Color: Blue-Green; Yellow in Fall",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:58:00.163307+00:00",
+    "stage": "DRAFT",
+    "spread": "15-25'",
+    "slug": "goldenrain-tree",
+    "scientificName": "Koelreuteria paniculata",
+    "name": "Goldenrain Tree",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26bm6384sn40emzmmqfw53m",
+    "height": "20-35'",
+    "growthRate": "Fast",
+    "foliageColor": "Foliage Color: Green; Orange to Gold in Fall. Flower Color: Yellow.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:57:43.221276+00:00",
+    "stage": "DRAFT",
+    "spread": "15-25' ",
+    "slug": "thundercloud-flowering-plum",
+    "scientificName": "Prunus cerasifera",
+    "name": "Thundercloud Flowering Plum",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26bnubc4sgf0bn5hws3fi5i",
+    "height": "15-25' ",
+    "growthRate": "Fast",
+    "foliageColor": "Foliage Color: Purple. Flower Color: Pink to White.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:57:27.918841+00:00",
+    "stage": "DRAFT",
+    "spread": "15'",
+    "slug": "royal-raindrop-flowering-crabapple",
+    "scientificName": "Malus ",
+    "name": "Royal Raindrop Flowering Crabapple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26fdnot7y2p0emzx3bh8n6o",
+    "height": "20'",
+    "growthRate": " Moderate ",
+    "foliageColor": "Foliage Color: Deep Purple; Orange-Red in Fall. Flower Color: Pinkish Red ",
+    "exposure": "Full Sun "
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:57:14.373092+00:00",
+    "stage": "DRAFT",
+    "spread": "20-25' ",
+    "slug": "redspire-flowering-pear",
+    "scientificName": "Pyrus calleryana",
+    "name": "Redspire Flowering Pear",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26fg35i82ll0emzqlb0o80y",
+    "height": "30-35' ",
+    "growthRate": "Fast",
+    "foliageColor": "Foliage Color: Green/Orange, Yellow Fall. Flower Color: White",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:57:01.826981+00:00",
+    "stage": "DRAFT",
+    "spread": "16'",
+    "slug": "weeping-mulberry",
+    "scientificName": "Morus alba",
+    "name": "Weeping Mulberry",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26fi4v982260bn51kmvabmm",
+    "height": "12'",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Glossy Dark Green; Yellow in Fall. Flower Color: Whitish Green.",
+    "exposure": "Full Sun to Part Shade"
+  },
+  {
+    "zones": [2],
+    "zone": 2,
+    "waterUse": "Low when Established",
+    "updatedAt": "2022-04-26T20:56:50.63252+00:00",
+    "stage": "DRAFT",
+    "spread": "30-40' ",
+    "slug": "common-hackberry",
+    "scientificName": "Celtis occidentalis",
+    "name": "Common Hackberry ",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26fk39a8adr0clj5wdqx8mh",
+    "height": "40-50'",
+    "growthRate": "Moderate ",
+    "foliageColor": "Foliage Color: Green; Yellow in Fall. Flower Color: Green; Insignificant",
+    "exposure": "Full Sun to Part Shade"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Low when Established ",
+    "updatedAt": "2022-04-26T20:56:39.090038+00:00",
+    "stage": "DRAFT",
+    "spread": " 40' ",
+    "slug": "shademaster-honeylocust",
+    "scientificName": " Gleditsia triacanthos",
+    "name": "Shademaster Honeylocust",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26fm0a483xz0bn5nnr2awpu",
+    "height": "50'",
+    "growthRate": "Moderate to Fast ",
+    "foliageColor": "Green; Yellow in Fall ",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Low when Established",
+    "updatedAt": "2022-04-26T20:56:23.561344+00:00",
+    "stage": "DRAFT",
+    "spread": "25-35'",
+    "slug": "patmore-ash",
+    "scientificName": "Fraxinus pennsylvanica",
+    "name": "Patmore Ash",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26fnrm28cja0clj0x8dhpss",
+    "height": "40-50'",
+    "growthRate": "Fast",
+    "foliageColor": "Green; Yellow in Fall ",
+    "exposure": "Full Sun to Part Shade"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:56:02.385234+00:00",
+    "stage": "DRAFT",
+    "spread": "15-20'",
+    "slug": "cleveland-select-chanticleer-pear",
+    "scientificName": "Pyrus calleryana",
+    "name": "Cleveland Select/Chanticleer Pear",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26gm7wi9asi0bn0bf35eqzt",
+    "height": "25-35'",
+    "growthRate": "Fast",
+    "foliageColor": "Foliage Color: Green/Red-Orange in Fall. Flower Color: White.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:55:48.551286+00:00",
+    "stage": "DRAFT",
+    "spread": "15-25'",
+    "slug": "double-weeping-flowering-cherry",
+    "scientificName": "Prunus subhirtella pendula",
+    "name": "Double Weeping Flowering Cherry",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26goc6d9bej0bn0h7yz950g",
+    "height": "20-30'",
+    "growthRate": "Fast",
+    "foliageColor": "Foliage Color: Green/Yellow Fall. Flower Color: Pink.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:55:37.698618+00:00",
+    "stage": "DRAFT",
+    "spread": "10'",
+    "slug": "lavender-twist-redbud",
+    "scientificName": "Cercis canadensis ‘Covey’",
+    "name": "Lavender Twist Redbud",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26gq9r696sx0bn533pb9ioz",
+    "height": "8'",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Green; Yellow in Fall. Flower Color: Rosy Pink-Purple",
+    "exposure": "Full Sun to Part Shade"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate to Heavy",
+    "updatedAt": "2022-04-26T20:55:27.691323+00:00",
+    "stage": "DRAFT",
+    "spread": "20-35'",
+    "slug": "globe-willow",
+    "scientificName": "Salix matsudana",
+    "name": "Globe Willow",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26grulx9ad10emzbuh5ve7e",
+    "height": "20-35'",
+    "growthRate": "Fast",
+    "foliageColor": "Green",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Low when Established",
+    "updatedAt": "2022-04-26T20:55:17.604132+00:00",
+    "stage": "DRAFT",
+    "spread": "20'",
+    "slug": "musashino-zelkova",
+    "scientificName": "Zelkova serrata",
+    "name": "Musashino Zelkova",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26gtq7v9au40bn5e9mnp3d1",
+    "height": "45'",
+    "growthRate": "Fast",
+    "foliageColor": "Green/Yellow in Fall",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Low when Established",
+    "updatedAt": "2022-04-26T20:55:06.012076+00:00",
+    "stage": "DRAFT",
+    "spread": "36'",
+    "slug": "wireless-zelkova",
+    "scientificName": " Zelkova serrata",
+    "name": "Wireless Zelkova",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26gvk7l9e0l0emzetao8xl9",
+    "height": "24'",
+    "growthRate": "Fast",
+    "foliageColor": "Green/Yellow in Fall",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Low when Established",
+    "updatedAt": "2022-04-26T20:54:54.886076+00:00",
+    "stage": "DRAFT",
+    "spread": "35'",
+    "slug": "green-vase-zelkova",
+    "scientificName": "Zelkova serrata",
+    "name": "Green Vase Zelkova",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26gxrtz9erm0emzzgsv2xog",
+    "height": "50'",
+    "growthRate": "Fast",
+    "foliageColor": "Green/Orange,Bronze in Fall",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [2],
+    "zone": 2,
+    "waterUse": "Moderate to Heavy",
+    "updatedAt": "2022-04-26T20:54:42.972288+00:00",
+    "stage": "DRAFT",
+    "spread": "35'",
+    "slug": "cottonless-cottonwood-siouxland-poplar",
+    "scientificName": "Populus deltoides",
+    "name": "Cottonless Cottonwood/Siouxland Poplar",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl26h02bc9ll60bn0tjkzbvfz",
+    "height": "80'",
+    "growthRate": "Fast",
+    "foliageColor": "Green; Yellow in Fall",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Low when Established",
+    "updatedAt": "2022-04-26T20:52:33.85676+00:00",
+    "stage": "DRAFT",
+    "spread": "35-60'",
+    "slug": "village-green-zelkova",
+    "scientificName": "Zelkova serrata",
+    "name": "Village Green Zelkova",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl27xc6j7z48k0cljecp39oan",
+    "height": "35-60'",
+    "growthRate": "Fast",
+    "foliageColor": "Green/Yellow in Fall ",
+    "exposure": "Full Sun "
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:52:24.549398+00:00",
+    "stage": "DRAFT",
+    "spread": "15-25'",
+    "slug": "kwanzan-flowering-cherry",
+    "scientificName": "Prunus serrulata",
+    "name": "Kwanzan Flowering Cherry",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl29671cp4xvl0amtb3hfwd8e",
+    "height": "15-25'",
+    "growthRate": "Fast",
+    "foliageColor": "Green/Orange-Red Fall. Flower color-Pink. ",
+    "exposure": "Full Sun "
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Low when Established",
+    "updatedAt": "2022-04-26T20:52:10.549781+00:00",
+    "stage": "DRAFT",
+    "spread": "30-40'",
+    "slug": "turkish-filbert",
+    "scientificName": "Corylus colurna",
+    "name": "Turkish Filbert",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl296eg1w4ypb0alqxfb1n4z4",
+    "height": "40-50'",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Green. Flower Color: Insignificant. Yellow (Male)",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate to High",
+    "updatedAt": "2022-04-26T20:52:00.522017+00:00",
+    "stage": "DRAFT",
+    "spread": "35-50'",
+    "slug": "green-mountain-maple",
+    "scientificName": "Acer spicatum ",
+    "name": "Green Mountain Maple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl296he1b54he0amtwd2w7k4m",
+    "height": "40-60'",
+    "growthRate": "About 1’ per year",
+    "foliageColor": "Foliage Color: Green/ Orange; Red. Flower Color: Green ",
+    "exposure": "Full sun to partial shade"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Medium to High",
+    "updatedAt": "2022-04-26T20:51:50.389765+00:00",
+    "stage": "DRAFT",
+    "spread": "25-25'",
+    "slug": "flamingo-maple",
+    "scientificName": "Acer negundo",
+    "name": "Flamingo Maple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl296jujg51gt0cn67m52bgeu",
+    "height": "30-50'",
+    "growthRate": "Fast",
+    "foliageColor": "Foliage Color: Green with White Variegation. Flower Color: Green; Insignificant",
+    "exposure": "Full sun to part shade"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:51:38.996676+00:00",
+    "stage": "DRAFT",
+    "spread": "6-10'",
+    "slug": "helena-maple",
+    "scientificName": "Acer Palmatum",
+    "name": "Helena Maple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl296mstv57aq0blof4vy6nmi",
+    "height": "8-12'",
+    "growthRate": "Medium",
+    "foliageColor": "Bronze and Green ",
+    "exposure": "Partial Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:51:25.014144+00:00",
+    "stage": "DRAFT",
+    "spread": "15’",
+    "slug": "beethoven-amur-maple",
+    "scientificName": "Acer ginnala ",
+    "name": "Beethoven Amur Maple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl296oqf355sk0alqov40je4a",
+    "height": "25’",
+    "growthRate": "Medium",
+    "foliageColor": "Foliage Color: Green. Flower Color: Vivid Green.",
+    "exposure": "Full to Partial Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:51:14.038006+00:00",
+    "stage": "DRAFT",
+    "spread": "40-50'",
+    "slug": "scarlet-oak",
+    "scientificName": "Quercus coccinea",
+    "name": "Scarlet Oak",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl296qw5k578q0cn64mwfvad2",
+    "height": "60-80'",
+    "growthRate": "Medium",
+    "foliageColor": "Foliage Color: Dark Green then Scarlet in Fall. Flower Color: Greenish Yellow",
+    "exposure": "Full sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Low when established",
+    "updatedAt": "2022-04-26T20:51:04.539528+00:00",
+    "stage": "DRAFT",
+    "spread": "45’",
+    "slug": "red-oak",
+    "scientificName": "Quercus rubra ",
+    "name": "Red Oak",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl296snpe581u0cn6hub5f014",
+    "height": "60-75’",
+    "growthRate": "Fast",
+    "foliageColor": "Foliage Color: Red to Bright Orange/Red. Flower Color: Yellowish Green.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:50:51.691159+00:00",
+    "stage": "DRAFT",
+    "spread": "25’",
+    "slug": "pyramidal-hornbeam",
+    "scientificName": "Carpinus betulus ‘Fastigiata’",
+    "name": "Pyramidal Hornbeam",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl296uo8p5ckt0blobmojw00q",
+    "height": "40’",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Dark Green to Yellow Orange in Fall. Flower Color: Insignificant.",
+    "exposure": "Full Sun to Partial Shade"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:50:41.921294+00:00",
+    "stage": "DRAFT",
+    "spread": "35’",
+    "slug": "green-mountain-linden",
+    "scientificName": "Tilia tomentosa",
+    "name": "Green Mountain Linden",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl296wkes5bas0cn6lbozzphg",
+    "height": "45’",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Dark Green. Flower Color: Yellow.",
+    "exposure": "Partial to Full Sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "High",
+    "updatedAt": "2022-04-26T20:50:32.046388+00:00",
+    "stage": "DRAFT",
+    "spread": "20-25'",
+    "slug": "renaissance-birch",
+    "scientificName": "Betula papyrifera ‘Renci’",
+    "name": "Renaissance Birch",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl296yeoj5cfz0cn671wv36ub",
+    "height": "50-70'",
+    "growthRate": "Fast",
+    "foliageColor": "Dark Green",
+    "exposure": "Full Sun (6 hours light daily) "
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:50:21.837134+00:00",
+    "stage": "DRAFT",
+    "spread": "45’",
+    "slug": "homestead-elm",
+    "scientificName": "Ulmus ‘Homestead’",
+    "name": "Homestead Elm",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl29708q95fas0alqifsgvmuh",
+    "height": "60’",
+    "growthRate": "Fast",
+    "foliageColor": "Dark Green",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:50:12.049553+00:00",
+    "stage": "DRAFT",
+    "spread": "3-4'",
+    "slug": "whitchita-blue-poodle",
+    "scientificName": "Juniperus scopulorum",
+    "name": "Whitchita Blue Poodle",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl2971z015ffb0cn6an4mxrz3",
+    "height": " 8-10'",
+    "growthRate": "Medium - Fast",
+    "foliageColor": "Green",
+    "exposure": "Full to Partial Sun "
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:49:59.380761+00:00",
+    "stage": "DRAFT",
+    "spread": "18’",
+    "slug": "improved-bechtel-apple",
+    "scientificName": "Malus ioensis 'Klehm's Improved Bechtel'",
+    "name": "Improved Bechtel Apple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl2974iug5kes0blosn73wf1a",
+    "height": "20’",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Medium Green. Flower Color: Double Pink.",
+    "exposure": "Full to Partial Sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:49:48.978915+00:00",
+    "stage": "DRAFT",
+    "spread": "45'",
+    "slug": "cobblestone-oak",
+    "scientificName": "Quercus macrocarpa",
+    "name": "Cobblestone Oak",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl29770985lkw0blox6wcast9",
+    "height": "55'",
+    "growthRate": "Slow",
+    "foliageColor": "Dark Green ",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:49:36.099694+00:00",
+    "stage": "DRAFT",
+    "spread": "15'",
+    "slug": "royal-burgundy-cherry",
+    "scientificName": "Prunus Serrulata ‘Royal Burgundy’",
+    "name": "Royal Burgundy Cherry",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl29792675mpg0blom0ik6h6j",
+    "height": "20’",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Burgundy. Flower Color: Purplish-pink.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:49:23.752297+00:00",
+    "stage": "DRAFT",
+    "spread": "20’+",
+    "slug": "silver-variegated-maple",
+    "scientificName": "Acer platanoides ‘Drummondi’",
+    "name": "Silver Variegated Maple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl297bdqh5ou40blood4han2d",
+    "height": "30-40'",
+    "growthRate": "Fast - 24” per year",
+    "foliageColor": "Foliage Color: Green top with silvery bottom. Flower Color: Yellow.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "High",
+    "updatedAt": "2022-04-26T20:49:10.537729+00:00",
+    "stage": "DRAFT",
+    "spread": "25-60’",
+    "slug": "katsura-tree",
+    "scientificName": "Cercidiphyllum japonicum",
+    "name": "Katsura Tree",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl297ehyj5r4b0blodbr3kal8",
+    "height": "40-60’",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Reddish-Purple to Blue-Green. Flower Color: Inconspicuous; red for male, green for female.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate to High",
+    "updatedAt": "2022-04-26T20:48:57.557486+00:00",
+    "stage": "DRAFT",
+    "spread": "18-20'",
+    "slug": "camperdown-elm",
+    "scientificName": "Ulmus glabra “Camperdownii”",
+    "name": "Camperdown Elm",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl297hjhs5q8g0alq5k3k8iqk",
+    "height": "20-25'",
+    "growthRate": "Fast",
+    "foliageColor": "Foliage Color: Green. Flower Color: Inconspicuous, reddish green.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate to High",
+    "updatedAt": "2022-04-26T20:48:40.67484+00:00",
+    "stage": "DRAFT",
+    "spread": "45’",
+    "slug": "flashfire-maple",
+    "scientificName": "Acer saccharum",
+    "name": "Flashfire Maple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl297nsz35wni0blod7330c41",
+    "height": "40’",
+    "growthRate": "Slow",
+    "foliageColor": "Spring-Summer, Dark Green and Bright Red in Fall",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:48:27.434145+00:00",
+    "stage": "DRAFT",
+    "spread": "40’",
+    "slug": "kingan-fruitless-mulberry",
+    "scientificName": "Morus Alba",
+    "name": "Kingan (Fruitless) Mulberry",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl297phmt5uh80cn6ee5petiv",
+    "height": "35’",
+    "growthRate": "Fast",
+    "foliageColor": "Green",
+    "exposure": "Partial Shade"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:48:14.012938+00:00",
+    "stage": "DRAFT",
+    "spread": "40’-50’",
+    "slug": "sargent-cherry-columnar",
+    "scientificName": "Prunus sargentii",
+    "name": "Sargent Cherry Columnar",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl297rm6t5yry0blo6ewjl8tf",
+    "height": "40’-50’",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Dark Green. Flower Color: Light to Dark Pink.",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:48:03.938995+00:00",
+    "stage": "DRAFT",
+    "spread": "20’",
+    "slug": "twisty-baby-locust",
+    "scientificName": "Robinia psuedoacacia",
+    "name": "Twisty Baby Locust",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl297xx8j63k90blop5ta5gvc",
+    "height": "20’",
+    "growthRate": "Fast",
+    "foliageColor": "Foliage Color: Green. Flower Color: White",
+    "exposure": "Full Sun to Partial Shade"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "High",
+    "updatedAt": "2022-04-26T20:47:53.607282+00:00",
+    "stage": "DRAFT",
+    "spread": "10’",
+    "slug": "northern-belle-magnolia",
+    "scientificName": "Magnolia virginiana",
+    "name": "Northern Belle Magnolia",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl29800du64na0bloqwiyrd51",
+    "height": "20’",
+    "growthRate": "Average to Fast",
+    "foliageColor": "Foliage Color: Dark Green. Flower Color: White.",
+    "exposure": " Full Sun to Full Shade"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Average",
+    "updatedAt": "2022-04-26T20:43:08.964899+00:00",
+    "stage": "DRAFT",
+    "spread": "40-60’",
+    "slug": "english-carpathian-walnut",
+    "scientificName": "Juglans regia Carpathia",
+    "name": "English Carpathian Walnut",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl298377r67f60blos0kdi2pn",
+    "height": "40-60’",
+    "growthRate": "Fast",
+    "foliageColor": "Green",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Average",
+    "updatedAt": "2022-04-26T20:42:57.416177+00:00",
+    "stage": "DRAFT",
+    "spread": "8’",
+    "slug": "crimson-pointe-plum",
+    "scientificName": "Prunus x cerasifera ‘Cripoizam’",
+    "name": "Crimson Pointe Plum",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl2985eg765u40cn6a93ssesw",
+    "height": "20’",
+    "growthRate": "Fast",
+    "foliageColor": "Foliage Color: Green to Burgundy in the Fall. Flower Color: White",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Average",
+    "updatedAt": "2022-04-26T20:42:47.33257+00:00",
+    "stage": "DRAFT",
+    "spread": "25’",
+    "slug": "bird-cherry-merlot",
+    "scientificName": "Prunus padus ‘Merlot’",
+    "name": "Bird Cherry Merlot",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl2987dj068yl0alq5h449i2i",
+    "height": "30’",
+    "growthRate": "Average",
+    "foliageColor": "Foliage Color: Green. Flower Color: White.",
+    "exposure": "Full Sun to Partial Shade"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Average",
+    "updatedAt": "2022-04-26T20:42:35.531473+00:00",
+    "stage": "DRAFT",
+    "spread": "35’",
+    "slug": "gingko-windover-gold",
+    "scientificName": "Gingko Biloba ‘Windover Gold’, Maidenhair Tree",
+    "name": "Gingko Windover Gold",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl29899ls69yt0alq435mm89z",
+    "height": "50’",
+    "growthRate": "Slow",
+    "foliageColor": "Medium Green to Bright Yellow in Fall",
+    "exposure": "Full Sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Average",
+    "updatedAt": "2022-04-26T20:42:22.12726+00:00",
+    "stage": "DRAFT",
+    "spread": "25-30’",
+    "slug": "gingko-magyar",
+    "scientificName": "Gingko Biloba ‘Magyar’",
+    "name": "Gingko Magyar",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl298b2qw6afn0cn63kzhs2ni",
+    "height": "50’",
+    "growthRate": " Slow to Medium",
+    "foliageColor": "Green to Yellow in Fall",
+    "exposure": "Full Sun to Partial Shade"
+  },
+  {
+    "zones": [6],
+    "zone": 6,
+    "waterUse": "Low",
+    "updatedAt": "2022-04-26T20:42:07.798509+00:00",
+    "stage": "DRAFT",
+    "spread": "20’",
+    "slug": "pink-dawn-chitalpa",
+    "scientificName": "Chitalpa tashkentensis",
+    "name": "Pink Dawn Chitalpa",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl298d0gr6f1q0blow7s4avb8",
+    "height": "20-30’",
+    "growthRate": "Fast",
+    "foliageColor": "Foliage Color: Green. Flower Color: Pink and White",
+    "exposure": "Sun to Partial Shade"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:41:54.090936+00:00",
+    "stage": "DRAFT",
+    "spread": "25’",
+    "slug": "horse-chestnut-autumn-splendor",
+    "scientificName": "Aesculus x Arnoldiana ‘Autumn Splendor’",
+    "name": "Horse Chestnut Autumn Splendor",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl298etue6gak0blo28ol0766",
+    "height": "35’",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Green to Maroon. Flower Color: Yellow",
+    "exposure": " Full Sun to Partial Sun"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Moderate ",
+    "updatedAt": "2022-04-26T20:41:41.58357+00:00",
+    "stage": "DRAFT",
+    "spread": "15-20'",
+    "slug": "paperbark-maple",
+    "scientificName": "Acer griseum",
+    "name": "Paperbark Maple",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl2a9bp6do54d0amtt9fbvvrw",
+    "height": "25'",
+    "growthRate": "Moderate ",
+    "foliageColor": "Green; Bronze to Red in Fall ",
+    "exposure": " Full Sun to Part Shade"
+  },
+  {
+    "zones": [4],
+    "zone": 4,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:45:26.361825+00:00",
+    "stage": "DRAFT",
+    "spread": "40’",
+    "slug": "triumph-elm-morton-glossy-elm",
+    "scientificName": "Ulmus",
+    "name": "Triumph Elm/Morton Glossy Elm",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl2anrmlbu94j0bloa6szsxrc",
+    "height": "60’",
+    "growthRate": "Fast 1’+ per year",
+    "foliageColor": "Dark Green in Summer, Yellow in Fall",
+    "exposure": "Partial Shade, Primary Sun"
+  },
+  {
+    "zones": [3],
+    "zone": 3,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:45:46.275881+00:00",
+    "stage": "DRAFT",
+    "spread": "30-40’",
+    "slug": "bird-cherry-mayday-hackberry",
+    "scientificName": "Prunus padus",
+    "name": "Bird Cherry/Mayday/Hackberry",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl2ao1kizuf7l0alq49fqpmm8",
+    "height": "30-40’",
+    "growthRate": "Fast. 24-36” year",
+    "foliageColor": "Foliage Color: Green. Flower Color: White/Near White",
+    "exposure": "Sun to Partial Shade"
+  },
+  {
+    "zones": [5],
+    "zone": 5,
+    "waterUse": "Moderate",
+    "updatedAt": "2022-04-26T20:39:54.543733+00:00",
+    "stage": "DRAFT",
+    "spread": "10'",
+    "slug": "persian-ironwood",
+    "scientificName": "Parrotia persica ‘Persian Spire’",
+    "name": "Persian Ironwood",
+    "image": {
+      "url": "https://media.graphassets.com/A7FfBLKnSaujzZvv3cug"
+    },
+    "id": "cl2ao8um3uj1x0cn62l55zy9z",
+    "height": "25'",
+    "growthRate": "Moderate",
+    "foliageColor": "Foliage Color: Green; Orange, Red in Fall. Flower Color: Red",
+    "exposure": "Full Sun"
+  }
+]
